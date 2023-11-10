@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require_relative 'setup_db'
-require_relative 'animal'
+require_relative 'db/setup_db'
+require_relative 'models/animal'
 require 'pry'
 
 binding.pry

@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require 'active_record'
-require_relative 'animal'
+require_relative '../models/animal'
 
-ActiveRecord::Base.establish_connection(adapter: 'sqlite3', database: 'zoo.sqlite3')
+ActiveRecord::Base.establish_connection(adapter: 'sqlite3', database: 'db/zoo.sqlite3')
 
 class CreateAnimalModel < ActiveRecord::Migration[7.1]
   def change

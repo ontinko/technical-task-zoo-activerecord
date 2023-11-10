@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative 'animal'
+require_relative '../models/animal'
 
 Animal.create(species: 'monkey', age: 12, sex: 'male')
 Animal.create(species: 'monkey', age: 2, sex: 'female')
