@@ -16,4 +16,4 @@ Upon executing the command, you will be presented with default `pry` prompt.
 
 ## Screenshots
 
-![image](https://github.com/ontinko/technical-task-zoo-activerecord/assets/116831568/f2357c0a-46d4-4c03-a4c7-7ef6e40f8e53)
+![image_2023-11-10_16-39-16](https://github.com/ontinko/technical-task-zoo-activerecord/assets/116831568/881ad0e7-8e4b-4f67-a20c-2c1f1698bba3)
